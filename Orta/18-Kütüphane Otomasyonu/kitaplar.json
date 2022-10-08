@@ -1,0 +1,20 @@
+{
+    "kitap":[
+        {
+            "isim":"Yıldızları Hesaplamak",
+            "yazar":"Mary",
+            "sayfa":432,
+            "yılı":2021,
+            "durum":false,
+            "tarih":"16.10.2022"
+        },
+        {
+            "isim":"Yıldızları Hesaplamak",
+            "yazar":"Mary",
+            "sayfa":432,
+            "yılı":2021,
+            "durum":false,
+            "tarih":"16.10.2022"
+        }
+    ]
+}
