@@ -1,0 +1,58 @@
+{
+    "mudur": {
+        "ad\u0131": "Ali",
+        "kullan\u0131c\u0131ad\u0131": "ali",
+        "\u015fifre": "123"
+    },
+    "\u00f6\u011fretmen": [
+        {
+            "ad\u0131": "Ahmet",
+            "kullan\u0131c\u0131ad\u0131": "ahmet",
+            "\u015fifre": "123",
+            "bran\u015f": "Matematik"
+        },
+        {
+            "ad\u0131": "Ay\u015fe",
+            "kullan\u0131c\u0131ad\u0131": "ay\u015fe",
+            "\u015fifre": "123",
+            "bran\u015f": "Kimya"
+        },
+        {
+            "ad\u0131": "Ahmet",
+            "kullan\u0131c\u0131ad\u0131": "ahmet",
+            "\u015fifre": "123",
+            "bran\u015f": "T\u00fcrk\u00e7e"
+        }
+    ],
+    "\u00f6\u011frenci": [
+        {
+            "numaras\u0131": 1,
+            "ad\u0131": "Ay\u015fe",
+            "kullan\u0131c\u0131ad\u0131": "ay\u015fe",
+            "\u015fifre": "123",
+            "dersler": {
+                "Matematik": 60,
+                "Biyoloji": 70,
+                "Edebiyat": 70
+            }
+        },
+        {
+            "numaras\u0131": 2,
+            "ad\u0131": "Talha",
+            "kullan\u0131c\u0131ad\u0131": "talha",
+            "\u015fifre": "123",
+            "dersler": {
+                "Matematik": 70,
+                "Biyoloji": 90,
+                "Edebiyat": 90
+            }
+        },
+        {
+            "numaras\u0131": 3,
+            "ad\u0131": "mehmet",
+            "dersler": [],
+            "kullan\u0131c\u0131ad\u0131": "mehmet",
+            "\u015fifre": "123"
+        }
+    ]
+}

@@ -1,20 +1,30 @@
 {
-    "kitap":[
+    "kitap": [
         {
-            "isim":"Yıldızları Hesaplamak",
-            "yazar":"Mary",
-            "sayfa":432,
-            "yılı":2021,
-            "durum":false,
-            "tarih":"16.10.2022"
+            "id":1,
+            "isim": "Y\u0131ld\u0131zlar\u0131 Hesaplamak",
+            "yazar": "Mary",
+            "sayfa": 432,
+            "y\u0131l\u0131": 2021,
+            "durum": false,
+            "tarih": "16.10.2022"
         },
         {
-            "isim":"Yıldızları Hesaplamak",
-            "yazar":"Mary",
-            "sayfa":432,
-            "yılı":2021,
-            "durum":false,
-            "tarih":"16.10.2022"
+            "id":2,
+            "isim": "Y\u0131ld\u0131zlar\u0131 Hesaplamak",
+            "yazar": "Mary",
+            "sayfa": 432,
+            "y\u0131l\u0131": 2021,
+            "durum": false,
+            "tarih": "16.10.2022"
+        },
+        {
+            "id":3,
+            "isim": "Ba\u015far\u0131n\u0131n Anahtar\u0131",
+            "yazar": "HILL",
+            "sayfa": 500,
+            "y\u0131l\u0131": 2020,
+            "durum": true
         }
     ]
 }

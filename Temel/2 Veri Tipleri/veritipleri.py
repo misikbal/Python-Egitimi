@@ -4,14 +4,44 @@
 # bool : Mantıksal ifadeler (Doğru ve Yanlış)
 # sayi = 4
 # print(sayi)
-sayi1=int(input("Birinci Sayınızı Giriniz: "))
-sayi2=int(input("İkinci Sayınızı Giriniz: "))
+# print("Merhaba Dünya")
+# print("45")
+# print(type(2.4))
 
-print("Toplama=", sayi1+sayi2)
+sayi1=6
+sayi2=4
+print("Toplam=", sayi1+sayi2)
 print("Çıkarma=",sayi1-sayi2)
 print("Çarpma=",sayi1*sayi2)
-print("Bölme=",int(sayi1/sayi2))
+print("Bölme=",sayi1/sayi2)
+print("Kalan=",sayi1%sayi2)
+
+
+# sayi1=int(input("Birinci Sayını Gir:"))
+# sayi2=int(input("İkinci Sayını Gir:"))
+
+# print("Toplam=", sayi1+sayi2)
+# print("Çıkarma=",sayi1-sayi2)
+# print("Çarpma=",sayi1*sayi2)
+# print("Bölme=",sayi1/sayi2)
+# print("Kalan=",sayi1%sayi2)
+
 # ş ö ç ğ ü ı İ --Türkçe Karakterler
+
+
+
+
+
+
+
+# sayi1=int(input("Birinci Sayınızı Giriniz: "))
+# sayi2=int(input("İkinci Sayınızı Giriniz: "))
+
+# print("Toplama=", sayi1+sayi2)
+# print("Çıkarma=",sayi1-sayi2)
+# print("Çarpma=",sayi1*sayi2)
+# print("Bölme=",int(sayi1/sayi2))
+
 
 # Kısa yollar----->
 # 1) CTRL+K+C Seçili Alanı Yorum Satırı Yapma

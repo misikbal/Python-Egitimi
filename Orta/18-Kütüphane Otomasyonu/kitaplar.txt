@@ -1,0 +1,21 @@
+{
+    "kitap": [
+        {
+            "isim": "Y\u0131ld\u0131zlar\u0131 Hesaplamak",
+            "yazar": "Mary",
+            "sayfa": 432,
+            "y\u0131l\u0131": 2021,
+            "durum": false,
+            "tarih": "16.10.2022"
+        },
+        {
+            "isim": "Y\u0131ld\u0131zlar\u0131 Hesaplamak",
+            "yazar": "Mary",
+            "sayfa": 432,
+            "y\u0131l\u0131": 2021,
+            "durum": false,
+            "tarih": "16.10.2022"
+        }
+
+    ]
+}
